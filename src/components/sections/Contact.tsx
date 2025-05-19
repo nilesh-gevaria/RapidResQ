@@ -47,7 +47,7 @@ const Contact: React.FC = () => {
             chip="Contact Us"
           /> */}
             <div className="containerCustom headingCustom">
-                <div className="text-3xl md:text-4xl lg:text-5xl font-bold text-white text-left headingCustomtitle">
+                <div className="text-xl md:text-4xl lg:text-5xl font-bold text-white text-left headingCustomtitle">
                   <span className="headingNumber">5</span> Contact Us
                 </div>
             </div>

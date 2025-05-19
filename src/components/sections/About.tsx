@@ -15,7 +15,7 @@ const About: React.FC = () => {
             chip="About Us"
           /> */}
           <div className="containerCustom headingCustom">
-            <div className="text-3xl md:text-4xl lg:text-5xl font-bold text-white text-left headingCustomtitle">
+            <div className="text-xl md:text-4xl lg:text-5xl font-bold text-white text-left headingCustomtitle">
               <span className="headingNumber">1</span> Who We Are
             </div>
           </div>
