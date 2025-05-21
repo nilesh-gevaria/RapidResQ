@@ -207,4 +207,7 @@
     font-size: 20px;
     top: 14px;
   }
+  .headingNumber svg {
+    height: 20px;
+  }
 }
